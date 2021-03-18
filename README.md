@@ -24,3 +24,5 @@ And that's all you have to for styling your termux.
 
 # screenshots
 
+![](photo.jpg)
+![](photo2.jpg)
