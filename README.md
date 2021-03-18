@@ -25,5 +25,4 @@ git clone https://github.com/dev22419/t-style-v2/tree/main && cd t-style-v2 && c
 # screenshots
 
 ![](photo.png)
-
 ![](photo2.png)
