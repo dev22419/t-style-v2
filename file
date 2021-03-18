@@ -1,0 +1,7 @@
+clear
+
+python3 /data/data/com.termux/files/usr/share/t-style/log2.py
+
+cowsay -f eyes hi | lolcat -S 80
+
+figlet -f big D G R | lolcat -S 27
