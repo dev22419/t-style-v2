@@ -26,3 +26,21 @@ git clone https://github.com/dev22419/t-style-v2/tree/main && cd t-style-v2 && c
 
 ![](Photo.png)
 ![](Photo2.png)
+
+# packages required
+
+- python
+
+- lolcat 
+
+- figlet
+
+- cowsay
+
+# note :
+
+The requirements are already satisfied by my script . My script will install requirements automatically but in case there is an error install it manually .
+
+And if there is any mistake let me know.
+
+And if my script is throughing any error the please help an issue so I can solve it .
