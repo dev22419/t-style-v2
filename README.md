@@ -43,4 +43,4 @@ The requirements are already satisfied by my script . My script will install req
 
 And if there is any mistake let me know.
 
-And if my script is throughing any error the please help an issue so I can solve it .
+And if my script is throughing any error the please held an issue so I can solve it .
