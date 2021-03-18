@@ -12,6 +12,8 @@ chmod +x m.sh
 
 cat file >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
-mv t-style /data/data/com.termux/files/usr/share/
+mkdir t-style /data/data/com.termux/files/usr/share/
+
+MV log2.py /data/data/com.termux/files/usr/share/t-style/
 
 rm -r /data/data/com.termux/files/home/t-style-v2
