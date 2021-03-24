@@ -37,6 +37,7 @@ git clone https://github.com/dev22419/t-style-v2 && cd t-style-v2 && chmod +x in
 
 - cowsay
 
+- termux-api
 # note :
 
 The requirements are already satisfied by my script . My script will install requirements automatically but in case there is an error install it manually .
