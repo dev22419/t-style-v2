@@ -1,5 +1,7 @@
 clear
 
+termux-toast -b white -c black -g top termux-style by dgr22419
+
 cowsay -f eyes hi | lolcat -S 80
 
 figlet -f big TERMUX | lolcat -S 27
