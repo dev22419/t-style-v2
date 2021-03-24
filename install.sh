@@ -1,8 +1,10 @@
-apt install figlet
+apt install figlet -y
 
-apt install cowsay
+apt install cowsay -y
 
-apt install python
+apt install python -y
+
+apt install termux-api -y
 
 pip install lolcat
 
